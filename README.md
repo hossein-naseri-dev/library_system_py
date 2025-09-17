@@ -18,4 +18,4 @@ A simple but efficient library management system with Python and SQLite, Not the
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/hossein-naseri-dev/library-system.git
+git clone https://github.com/hossein-naseri-dev/library_system_py.git
